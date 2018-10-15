@@ -1,6 +1,8 @@
 <header>
+
+    <div class="container-fluid">
+
     <nav class="navbar navbar-expand-sm navbar-dark bg-primary fixed-top">
-        <div class="container">
             <a class="navbar-brand" href="/">IS601 - Laravel</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
                     aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -19,6 +21,8 @@
                 </ul>
 
             </div>
-        </div>
+
     </nav>
+    </div>
+
 </header>

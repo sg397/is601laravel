@@ -1,0 +1,90 @@
+.jumbotron {
+    background-image: url("/images/logo.jpeg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: white;
+    padding-bottom: 80px;
+
+}
+.navbar-dark .navbar-brand {
+    color: #fff;
+}
+.jumbotron .btn-primary {
+    background: #845ac7;
+    border-color: #845ac7;
+}
+.jumbotron .btn-primary:hover {
+    background: #7646c1;
+}
+.jumbotron p {
+    color: #555;
+    max-width: 75%;
+    margin: 1em auto 2em;
+}
+.jumbotron h1 {
+    font-size: 40px;
+}
+.navbar + .jumbotron {
+    margin-top: -20px;
+}
+.jumbotron .lang-logo {
+    display: block;
+    background: #B01302;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    border: 2px solid white;
+}
+.jumbotron .lang-logo img {
+    max-width: 100%;
+}
+.plink {
+    padding-left: 12px;
+    padding-top: 20px;
+}
+
+.pblock{
+    color: #555;
+}
+.theader{
+    color: #555;
+}
+.knowmore a{
+    color: #ff6c33;
+    font-weight:bold;
+}
+.container .nametxt{
+    width:100%;
+    height:200%;
+    font-weight:bold;
+    align: center;
+    background: #532F8C;
+    color: #ffff5d;
+
+    background-size: cover;
+    padding-bottom: 80px;
+    padding-top:100px;
+}
+
+.bcontainer{
+    background-image: url("/images/bgimage.jpeg");
+    background-size: cover;
+}
+.tableheader{
+    background-color: black;
+}
+.thstyle{
+    color: white !important;
+}
+.container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #ccc;
+    font-size: large;
+}
