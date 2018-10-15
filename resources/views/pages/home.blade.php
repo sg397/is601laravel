@@ -1,8 +1,8 @@
 @extends('layouts.default')
 @section('content')
  <section class="jumbotron">
-        <div class="container nametxt text-center">
-            <h2><b>ABCD Institutions</b></h2><br>
+        <div class="hometxt text-center">
+            <h2><b>ABCD Institutions Home</b></h2><br>
             <h3><b>Destination For World Class Education</b></h3>
 
         </div>

@@ -88,3 +88,17 @@
     color: #ccc;
     font-size: large;
 }
+.hometxt{
+    font-weight:bold;
+    align: center;
+    color: #ffff5d;
+    padding-bottom:20px;
+    font-size:large;
+}
+.abttxt{
+    font-weight:bold;
+    align: center;
+    color: #ffff5d;
+    padding-bottom:20px;
+    font-size:large;
+}
