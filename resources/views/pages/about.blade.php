@@ -6,7 +6,7 @@
             <div class="abttxt">
                 About ABCD Institutions
             </div>
-            <div style="width:30%">
+            <div>
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">Leadership              <b>+</b></li>
                     <li class="list-group-item">Media           <b>+</b> </li>
